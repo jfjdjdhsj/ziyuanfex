@@ -1,0 +1,12 @@
+{
+  "name": "resource-manager-vercel",
+  "version": "1.0.0",
+  "description": "资源管理系统 - Vercel版",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
