@@ -1,0 +1,29 @@
+{
+  "resources": [
+    {
+      "id": 1,
+      "name": "示例软件1",
+      "r_type": "软件工具",
+      "description": "这是一个功能强大的示例软件，完全免费使用，支持多平台运行",
+      "tg_link": "https://t.me/example1",
+      "pan_link": "https://pan.baidu.com/s/example1",
+      "pan_pass": "8888",
+      "tags": "免费,绿色版,中文,多平台",
+      "sort_order": 0,
+      "created_at": "2024-12-11"
+    },
+    {
+      "id": 2,
+      "name": "编程学习教程全集",
+      "r_type": "学习教程",
+      "description": "包含Python、JavaScript、Java等主流编程语言的完整学习教程",
+      "tg_link": "https://t.me/example2",
+      "pan_link": "https://pan.baidu.com/s/example2",
+      "pan_pass": "",
+      "tags": "教程,免费,编程,入门",
+      "sort_order": 1,
+      "created_at": "2024-12-11"
+    }
+  ],
+  "next_id": 3
+}
